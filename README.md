@@ -8,25 +8,19 @@ This project will consist of five screens. You don't have to create a shoe store
 4. Shoe Listing screen
 5. Shoe Detail screen for adding a new shoe
 
-## Getting Started
-
-Open the starter project in the latest stable version of Android Studio.
-
-Open the starter project in Android Studio
-
 ##Steps
 
-1. Open the starter project in Android Studio
+1. Open the starter project in Android Studio ✅
 
-2. Add the navigation libraries to the app build.gradle file
+2. Add the navigation libraries to the app build.gradle file ✅
 
-3. Add the safe-arg plugin to the main and app build.gradle file
+3. Add the safe-arg plugin to the main and app build.gradle file ✅
 
 4. Create a new navigation xml file
 
 5. Create a new Login destination.
 
-   * Include email and password labels 
+   * Include email and password labels
 
    - Include email and password fields
    - Create buttons for creating a new login and logging in with an existing account
